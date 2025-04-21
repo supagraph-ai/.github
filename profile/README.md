@@ -1,4 +1,4 @@
-## Hi prismgraph 👋
+## Hi supagraph 👋
 
 <!--
 
